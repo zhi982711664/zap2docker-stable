@@ -1,1 +1,1 @@
-FROM owasp/zap2docker-weekly:latest
+FROM ictu/zap2docker-weekly
