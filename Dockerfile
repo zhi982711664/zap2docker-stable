@@ -1,1 +1,1 @@
-FROM docker.io/owasp/zap2docker-stable
+FROM owasp/zap2docker-weekly:latest
